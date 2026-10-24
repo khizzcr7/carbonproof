@@ -1,0 +1,140 @@
+{
+  "credits": {
+    "1": {
+      "metadata": {
+        "projectName": "Sindh Solar Park Phase II",
+        "projectType": "Solar",
+        "country": "Pakistan",
+        "region": "Sindh",
+        "methodology": "ACM0002 - Grid-connected renewable electricity generation",
+        "vintage": 2025,
+        "description": "120 MW solar PV plant feeding the national grid in Sindh, displacing coal and gas generation. Metered output is reconciled monthly against grid operator settlement data."
+      },
+      "assessment": {
+        "score": 92,
+        "verdict": "Likely credible",
+        "mode": "seed"
+      }
+    },
+    "2": {
+      "metadata": {
+        "projectName": "Thar Wind Corridor",
+        "projectType": "Wind",
+        "country": "Pakistan",
+        "region": "Sindh",
+        "methodology": "ACM0002 - Grid-connected renewable electricity generation",
+        "vintage": 2025,
+        "description": "Wind farm cluster in the Thar corridor with SCADA-verified generation data shared quarterly with the registry for independent reconciliation."
+      },
+      "assessment": {
+        "score": 89,
+        "verdict": "Likely credible",
+        "mode": "seed"
+      }
+    },
+    "3": {
+      "metadata": {
+        "projectName": "Bali Mangrove Blue Carbon",
+        "projectType": "Mangrove Restoration",
+        "country": "Indonesia",
+        "region": "Bali",
+        "methodology": "VM0007 - REDD+ Methodology Framework",
+        "vintage": 2024,
+        "description": "Restoration of 480 hectares of degraded mangrove coastline with community ranger monitoring and satellite-verified canopy cover growth."
+      },
+      "assessment": {
+        "score": 85,
+        "verdict": "Likely credible",
+        "mode": "seed"
+      }
+    },
+    "4": {
+      "metadata": {
+        "projectName": "Kenya Clean Cookstoves",
+        "projectType": "Household Devices",
+        "country": "Kenya",
+        "region": "Nairobi Region",
+        "methodology": "AMS-II.G - Energy efficiency measures in thermal applications",
+        "vintage": 2025,
+        "description": "Distribution of 18,000 improved cookstoves reducing charcoal consumption, with usage surveys and stove serial-number tracking for auditability."
+      },
+      "assessment": {
+        "score": 88,
+        "verdict": "Likely credible",
+        "mode": "seed"
+      }
+    },
+    "5": {
+      "metadata": {
+        "projectName": "Reykjanes Geothermal Expansion",
+        "projectType": "Geothermal",
+        "country": "Iceland",
+        "region": "Reykjanes",
+        "methodology": "ACM0002 - Grid-connected renewable electricity generation",
+        "vintage": 2026,
+        "description": "Expansion of an existing geothermal plant with continuous wellhead metering and third-party verified generation certificates."
+      },
+      "assessment": {
+        "score": 94,
+        "verdict": "Likely credible",
+        "mode": "seed"
+      }
+    },
+    "6": {
+      "metadata": {
+        "projectName": "Punjab Agroforestry Initiative",
+        "projectType": "Agroforestry",
+        "country": "Pakistan",
+        "region": "Punjab",
+        "methodology": "VM0047 - Afforestation, Reforestation, and Revegetation",
+        "vintage": 2026,
+        "description": "Agroforestry planting across 2,300 smallholder farms with annual survival-rate audits; early-stage project, sequestration ramps over a 20-year crediting period."
+      },
+      "assessment": {
+        "score": 78,
+        "verdict": "Plausible - monitor",
+        "mode": "seed"
+      }
+    },
+    "7": {
+      "metadata": {
+        "projectName": "Sindh Solar Park Phase III",
+        "projectType": "Solar",
+        "country": "Pakistan",
+        "region": "Sindh",
+        "methodology": "ACM0002 - Grid-connected renewable electricity generation",
+        "vintage": 2026,
+        "description": "Utility-scale solar plant feeding the national grid. Generation is metered continuously through SCADA systems, cross-checked with satellite imagery, and audited annually by an independent third party. Monitoring reports are published every quarter and verified against grid dispatch records."
+      },
+      "assessment": {
+        "score": 82,
+        "verdict": "Likely credible",
+        "flags": [],
+        "summary": "Local heuristic assessment (set GEMINI_API_KEY for full AI analysis). Score reflects methodology recognition, described monitoring, claim plausibility and description specificity.",
+        "mode": "local-heuristic"
+      }
+    }
+  },
+  "accounts": [
+    {
+      "index": 0,
+      "label": "CarbonProof Registry (Verifier)",
+      "address": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266"
+    },
+    {
+      "index": 1,
+      "label": "Sindh Green Energy Cooperative",
+      "address": "0x70997970C51812dc3A010C7d01b50e0d17dc79C8"
+    },
+    {
+      "index": 2,
+      "label": "EcoOffset EU GmbH",
+      "address": "0x3C44CdDdB6a900fa2b585dd299e03d12FA4293BC"
+    },
+    {
+      "index": 3,
+      "label": "Karachi Climate Fund",
+      "address": "0x90F79bf6EB2c4f870365E785982E1f101E93b906"
+    }
+  ]
+}
